@@ -1,0 +1,25 @@
+{
+  "name": "ThreeRingControl",
+  "version": "1.0.0",
+  "summary": "A three-ring control like the Activity status bars",
+  "description": "Teste de SDK Nativo",
+  "homepage": "http://www.google.com",
+  "license": "MIT",
+  "authors": {
+    "Luiz Gustavo Orso": "luiz.santos@compasso.com.br"
+  },
+  "source": {
+    "path": "."
+  },
+  "source_files": [
+    "ThreeRingControl",
+    "Users/luiz.santos/sdk_nativo/ThreeRingControl.{h,m,swift}"
+  ],
+  "exclude_files": "Classes/Exclude",
+  "platforms": {
+    "osx": null,
+    "ios": null,
+    "tvos": null,
+    "watchos": null
+  }
+}

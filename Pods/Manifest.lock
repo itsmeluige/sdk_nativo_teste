@@ -1,0 +1,16 @@
+PODS:
+  - ThreeRingControl (1.0.0)
+
+DEPENDENCIES:
+  - ThreeRingControl (from `../ThreeRingControl`)
+
+EXTERNAL SOURCES:
+  ThreeRingControl:
+    :path: "../ThreeRingControl"
+
+SPEC CHECKSUMS:
+  ThreeRingControl: cbe3d7ef2415c6ce2adbc4e626dac86da8f56b71
+
+PODFILE CHECKSUM: f774f00a594d896ede3297e080f250774b2d2f20
+
+COCOAPODS: 1.5.3
